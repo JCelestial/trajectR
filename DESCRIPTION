@@ -1,0 +1,14 @@
+Package: trajectR
+Title: An R package used to organize Molecular Dynamics Trajectories
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jarvis",
+           family = "Celestial",
+           role = c("aut", "cre"),
+           email = "jarelc31@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: trajectR is aimed at organizing data computed from large scale Molecular Dynamics simulations that makes plot ready, tidy data. Most of the features use common methods in Theoretical and Computational Chemistry such as binning coordinate data into histogram bins for Density computations.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
